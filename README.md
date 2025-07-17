@@ -1,6 +1,6 @@
 # 🌐 Global AI Tools Adoption Across Industries
 
-An interactive dashboard and case study analyzing how artificial intelligence tools are adopted across countries, industries, age groups, and company sizes. Developed as part of the final project for the IBM "Languages of Data Science" course on Coursera.
+An interactive dashboard and case study analyzing how artificial intelligence tools are adopted across countries, industries, age groups, and company sizes.
 
 ![Dashboard Preview](./dashboard.png)
 
