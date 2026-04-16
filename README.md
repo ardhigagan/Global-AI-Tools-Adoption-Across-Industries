@@ -17,7 +17,8 @@ This interactive dashboard is designed to answer critical business questions:
 ## Key Features & Insights
 The project features a comprehensive, two-page Power BI dashboard:
 
-* **The Macro View (Global & Executive Insights):** * Features a global choropleth map correlating digital maturity indices with national AI adoption rates.
+* **The Macro View (Global & Executive Insights):**
+  * Features a global choropleth map correlating digital maturity indices with national AI adoption rates.
   * Tracks total AI patent filings and maps the financial ROI (revenue growth) of AI adoption across various sectors.
 * **The Micro View (Workforce & Technology):**
   * Introduces a custom **Net Job Impact** calculation, directly comparing roles created vs. roles displaced by automation.
@@ -27,13 +28,13 @@ The project features a comprehensive, two-page Power BI dashboard:
 ## Repository Structure
 
 ```text
-├── project_report             # Detailed analytical report and methodology (PDF)
-├── ai_company_adoption.csv.gz      # Compressed main dataset 
-├── ai_industry_summary.csv      # Industry-level aggregations
-├── country_ai_index.csv         # Global macro indicators
-├── dashboard.pbix               # The Power BI Dashboard file (.pbix)                     
-├── data_cleaning.ipynb           # Python scripts for data preprocessing
-└── README.md                    # Project documentation
+├── project_report                 # Detailed analytical report and methodology (PDF)
+├── ai_company_adoption.csv.gz     # Compressed main dataset 
+├── ai_industry_summary.csv        # Industry-level aggregations
+├── country_ai_index.csv           # Global macro indicators
+├── dashboard.pbix                 # The Power BI Dashboard file (.pbix)                     
+├── data_cleaning.ipynb            # Python scripts for data preprocessing
+└── README.md                      # Project documentation
 ```
 ## Tech Stack & Methodology
 * Data Engineering (Python): Utilized pandas in Jupyter Notebooks to ingest, clean, and standardize datasets.
@@ -50,7 +51,8 @@ The project features a comprehensive, two-page Power BI dashboard:
 git clone [https://github.com/ardhigagan/ai-adoption-tracker.git](https://github.com/ardhigagan/ai-adoption-tracker.git)
 ```
 2. Explore the Data Processing: Navigate to the data_cleaning.ipynb to view the Python preprocessing logic.
-
 3. View the Dashboard: Open the .pbix file using Power BI Desktop.
-
 4. Interact: Use the slicers on the dashboard to filter the global data by Region or Company Size.
+
+## Author
+Ardhi Gagan
