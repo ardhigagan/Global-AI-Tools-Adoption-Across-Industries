@@ -1,0 +1,31 @@
+country,region,gdp_per_capita,internet_penetration,digital_maturity_index,country_ai_policy,ai_patent_filings_2024,ai_researchers_per_million
+USA,North America,72596.06,92.1,87.14,Moderate,19952,417.69
+Canada,North America,55834.08,96.78,84.67,Moderate,4233,393.62
+Germany,Europe,54777.23,91.98,85.01,Strict,6475,369.58
+UK,Europe,52827.64,91.41,83.85,Moderate,5612,345.98
+France,Europe,47719.02,92.23,83.46,Moderate,4722,353.71
+Netherlands,Europe,57719.04,93.17,91.44,Strict,2858,419.02
+Sweden,Europe,62895.06,96.31,89.87,Strict,2648,459.49
+Spain,Europe,42920.92,87.06,79.81,Moderate,2266,289.09
+Italy,Europe,39436.63,86.01,75.65,Moderate,2234,296.83
+Poland,Europe,26651.07,88.3,70.84,Moderate,1823,233.18
+India,Asia,7443.9,61.11,70.65,Lenient,2253,147.04
+China,Asia,12441.12,75.26,85.77,Strict,17037,336.29
+Japan,Asia,42290.35,91.83,87.94,Strict,7081,368.11
+South Korea,Asia,42704.06,95.55,92.82,Strict,6422,413.2
+Singapore,Asia,72930.1,93.78,87.28,Moderate,2218,501.2
+Indonesia,Asia,11325.25,68.92,69.48,Lenient,1161,113.96
+Vietnam,Asia,8784.6,71.31,69.16,Lenient,980,91.39
+Thailand,Asia,18377.1,81.59,70.46,Moderate,1254,150.82
+Philippines,Asia,7910.37,68.52,65.17,Lenient,703,77.25
+Malaysia,Asia,13305.24,85.36,70.42,Moderate,1145,175.68
+Brazil,South America,17758.78,85.49,71.6,Moderate,1362,148.97
+Argentina,South America,17729.07,81.42,70.64,Moderate,985,158.6
+Chile,South America,21081.03,86.98,76.66,Moderate,874,140.6
+Colombia,South America,12290.3,76.92,67.07,Lenient,665,116.14
+South Africa,Africa,14346.74,76.55,64.54,Moderate,500,119.76
+Nigeria,Africa,6133.11,56.4,59.1,Lenient,240,55.23
+Kenya,Africa,5618.81,63.74,63.65,Lenient,191,82.73
+Egypt,Africa,8450.84,71.54,64.59,Moderate,272,110.69
+Australia,Oceania,64279.23,94.5,88.05,Moderate,3270,390.71
+New Zealand,Oceania,54649.97,94.46,87.92,Moderate,1801,382.22
