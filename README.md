@@ -14,6 +14,15 @@ This interactive dashboard is designed to answer critical business questions:
 * Does investing in employee AI training actually yield higher productivity?
 * Which specific AI tools (e.g., ChatGPT, proprietary models) are dominating the enterprise space?
 
+## Dashboard Previews
+### The Macro View (Global & Executive Insights)
+![Executive Summary Dashboard](dashboard_page-0001.jpg)
+*Features a global choropleth map correlating digital maturity indices with national AI adoption rates, tracking total AI patent filings, and mapping the financial ROI.*
+
+### The Micro View (Workforce & Technology)
+![Workforce Impact Dashboard](dashboard_page-0002.jpg)
+*Introduces a custom **Net Job Impact** calculation, visualizes the correlation between employee training hours and productivity, and highlights AI tool dominance.*
+
 ## Key Features & Insights
 The project features a comprehensive, two-page Power BI dashboard:
 
